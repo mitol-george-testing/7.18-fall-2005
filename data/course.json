@@ -1,0 +1,31 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Biology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "eaecee38-a4b1-29ef-abc1-77398f6755e3",
+      "c551a598-a10c-e844-9437-9e2473a6e445",
+      "57ef754a-c4e4-6918-f91b-3c69b5e35ba2",
+      "6e174d1b-36ae-abc0-d0a8-a5ef95f5e7f9"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Topics in Experimental Biology",
+  "course_description": "This independent experimental study course is designed to allow students with a strong interest in independent research to fulfill the project laboratory requirement for the Biology Department Program in the context of a research laboratory at MIT. The research should be a continuation of a previous project under the direction of a member of the Biology Department faculty.\n\nThis course provides instruction and practice in written and oral communication. Journal club discussions are used to help students evaluate and write scientific papers.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.18",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments",
+    "Presentation Assignments"
+  ],
+  "title": "Course Metadata"
+}
